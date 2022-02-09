@@ -6,11 +6,11 @@ int buttonstate=1,buttonpress=0;
 
 void setup() 
 {
-  pinMode(13,INPUT);
+  pinMode(13,INPUT);  //pushbutton
   lcd.begin(16, 2);
-  pinMode(10,OUTPUT);
-  pinMode(9,OUTPUT);
-  pinMode(8,OUTPUT);
+  pinMode(10,OUTPUT); //led
+  pinMode(9,OUTPUT);  //led
+  pinMode(8,OUTPUT);  //led
 }
 //comment
 void loop() 
