@@ -1,3 +1,4 @@
-## LCD display
-Arduino sketch that make use of LCD display, 3 LEDs and a push button
-pushing the button will change the text displayed in the LCD as well as the LED that is ON
+## LCD display 
+Arduino sketch that make use of LCD display, 3 LEDs and a push button. <br>
+The button changes the text displayed in the LCD as weel the LED which is turned ON.
+
